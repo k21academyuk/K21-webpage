@@ -1,6 +1,6 @@
 <h1>About the Project</h1>
 As part of your company's expansion into the e-learning sector, we've been assigned the task of creating a comprehensive e-learning platform. Our objective is to develop a scalable and user-friendly solution that caters to the diverse needs of our target audience.
-<h2>Description:</h2>
+<h2>Description</h2>
 Our developers have written the code for the e-learning platform, ensuring it's robust and user-friendly. Meanwhile, our DevOps team has created a Dockerfile to package the application into a Docker image for easy deployment. Once the image is built, it's pushed to a Docker registry, allowing us to manage and distribute it efficiently. Finally, we've exposed the platform through a specific port to make it accessible to users.
 <h2>Getting Started</h2>
 This is an example of how you may give instructions on setting up your project locally. To get a local copy up and running follow these simple example steps.
